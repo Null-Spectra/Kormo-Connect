@@ -2,11 +2,11 @@
 
 <div align="center">
   
-![Kormo Connect Logo](https://via.placeholder.com/200x80/4F46E5/FFFFFF?text=Kormo+Connect)
+<!-- ![Kormo Connect Logo](https://via.placeholder.com/200x80/4F46E5/FFFFFF?text=Kormo+Connect) -->
 
 **An AI-powered platform that intelligently connects Professionals to Employers using deep suitability analysis.**
 
-[🚀 Live Demo](#) • [📹 Watch Demo](#) • [📊 View Stats](#)
+<!-- [🚀 Live Demo](#) • [📹 Watch Demo](#) • [📊 View Stats](#) -->
 
 </div>
 
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-4F46E5?style=for-the-badge&logo=rocket&logoColor=white)](https://7e6l28er4jqa.space.minimax.io)
-[![View Screencast](https://img.shields.io/badge/Screencast-Watch_Preview-EF4444?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-4F46E5?style=for-the-badge&logo=rocket&logoColor=white)](https://kormoconnect.netlify.app/)
+<!-- [![View Screencast](https://img.shields.io/badge/Screencast-Watch_Preview-EF4444?style=for-the-badge&logo=youtube&logoColor=white)](#) -->
 
-<!-- Demo GIF placeholder - replace with actual demo -->
-![Demo GIF](https://via.placeholder.com/800x400/1F2937/FFFFFF?text=Demo+Coming+Soon)
+<!-- Demo GIF placeholder - replace with actual demo
+![Demo GIF](https://via.placeholder.com/800x400/1F2937/FFFFFF?text=Demo+Coming+Soon) -->
 
 *Click the buttons above to see the live application in action*
 
@@ -115,6 +115,8 @@ cp .env.example .env.local
 # VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 # VITE_GEMINI_API_KEY=your_gemini_api_key
 
+# Configure your supabase.js
+
 # Deploy Supabase backend
 cd supabase
 supabase db push
@@ -129,13 +131,13 @@ pnpm run dev
 
 For detailed setup instructions including database schema, environment configuration, and deployment options, see our comprehensive guide:
 
-**[📖 Complete Setup Guide](/Deploy-guide.md)**
+**[📖 Complete Setup Guide](Coming Soon...)**
 
 ---
 
 ## 🏆 Hackathon Submission
 
-**This project was built for the [Hackathon Name] 2025**
+**This project was built for the Solveo Hackathon 2025**
 
 A revolutionary job matching platform that uses AI to create meaningful connections between professionals and employers. By focusing on intelligent analysis rather than keyword matching, Kormo Connect transforms job searching from a numbers game into a strategic, data-driven experience.
 
@@ -147,16 +149,16 @@ A revolutionary job matching platform that uses AI to create meaningful connecti
 - ✅ **Deployment Ready**: Fully functional live demo with proper error handling
 
 ### 👥 Team
-- **Project Lead, Prompt Engineer, AI Developer & Full-Stack Developer**: Shaik Rezwan Ahmmed Rafi
-- **Project Manager & Business Strategist**: Labib Ul Hasan
-- **Presentation Designer**: Masuk Al Aff
-- **Market Research & Outreach**: Rim Akter
+- **Project Lead, Prompt Engineer, AI Developer & Full-Stack Developer**: [Shaik Rezwan Ahmmed Rafi](https://github.com/Null-Spectra/)
+- **Project Manager & Business Strategist**: [Labib Ul Hasan](https://github.com/labib-0)
+- **Presentation Designer**: [Masuk Al Aff](https://github.com/masuk1-glitch)
+- **Market Research & Outreach**: [Rim Akter](#)
 
 ---
 
 <div align="center">
 
-**[🚀 Try the Live Demo](https://7e6l28er4jqa.space.minimax.io)** • **[📧 Contact Us](#)** • **[⭐ Star this Repository](#)**
+**[🚀 Try the Live Demo](https://kormoconnect.netlify.app/)** • **[📧 Contact Us](#)** • **[⭐ Star this Repository](#)**
 
 *Built with ❤️ using React, Supabase, Google Gemini AI, Minimax & Dyad*
 
