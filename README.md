@@ -15,6 +15,8 @@
 ## 🎯 Live Demo & Screencast
 
 <div align="center">
+  
+[<img width="699" height="454" alt="image" src="https://github.com/user-attachments/assets/a5025c36-edc4-4f3e-bac3-fdfdfba0f52b" />](https://kormoconnect.netlify.app/)
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-4F46E5?style=for-the-badge&logo=rocket&logoColor=white)](https://kormoconnect.netlify.app/)
 <!-- [![View Screencast](https://img.shields.io/badge/Screencast-Watch_Preview-EF4444?style=for-the-badge&logo=youtube&logoColor=white)](#) -->
